@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Hoping to learn more about cybersecurity in this course!
+- I'm hoping to get into video game development in the near future - as of now I'm learning how to make 3D assets with Blender
+- 'Violent Python' is the best name I have ever seen for a class
 <!--
 **zachtho05/zachtho05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
