@@ -6,3 +6,4 @@
 I feel I have a decent idea of how to use Github, now.
 I have now completed all the intro steps and have also watched the crash course video.
 Not entirely sure how to made the text colored, though.
+<sub>extra change so i can make a pull request</sub>
